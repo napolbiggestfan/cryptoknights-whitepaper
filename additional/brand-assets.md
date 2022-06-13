@@ -2,21 +2,19 @@
 
 ### RUBY .AI
 
-{% file src="../.gitbook/assets/RUBY Token V1.ai" %}
+[RUBY Token](../.gitbook/assets/RUBY Token V1.ai)
 
-### RUBY  .PNG
+### RUBY .PNG
 
-{% file src="../.gitbook/assets/RUBY trans (1).png" %}
+[RUBY transperency](../.gitbook/assets/RUBY trans (1).png)
 
-{% file src="../.gitbook/assets/RUBY grey (1).png" %}
+[RUBY grey](../.gitbook/assets/RUBY grey (1).png)
 
-{% file src="../.gitbook/assets/RUBY black (1).png" %}
+[RUBY black](../.gitbook/assets/RUBY black (1).png)
 
-{% file src="../.gitbook/assets/RUBY white.png" %}
+[RUBY white](../.gitbook/assets/RUBY white.png)
 
 ### RUBY .GIF
 
-{% file src="../.gitbook/assets/RUBY anime.gif" %}
-Background:[ pexels.com/@colors-motion-graphics-183847699](https://www.pexels.com/@colors-motion-graphics-183847699/)
-{% endfile %}
-
+[RUBY anime](../.gitbook/assets/RUBY anime.gif")  
+Background: [pexels.com](https://www.pexels.com/@colors-motion-graphics-183847699/)
